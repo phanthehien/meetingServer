@@ -1,7 +1,8 @@
 const topicHandler = (request, reply) => {
   const topicName = request.params.name
 
-  const data = require('../../../data/' + topicName)
+  const path = '../../../data/' + topicName
+  let data = require(path)
   return reply(data)
 }
 
