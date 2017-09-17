@@ -10,7 +10,7 @@ const logger = require('./server/utils/logger')
 const server = new Hapi.Server()
 
 server.connection({
-  port: config.get('app.port')
+  port: process.env.PORT || config.get('app.port')
 })
 
 // attach routes here
