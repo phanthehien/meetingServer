@@ -57,7 +57,7 @@ $ yarn start
 
 ```bash
 # Try GET /ping to make sure server is up
-$ curl http://localhost:3030/ping
+$ curl http://localhost:5000/ping
 ```
 
 ```bash
@@ -115,11 +115,11 @@ yarn lint
 - Build the docker image
     - `docker build -t hapi-starter-kit-oss .`
 - Start Docker Container
-    - `docker run -d -p 3030:3030 --name hapi-starter-kit-oss hapi-starter-kit-oss` 
+    - `docker run -d -p 5000:5000 --name hapi-starter-kit-oss hapi-starter-kit-oss` 
 
 ## Documentation
 - `hapi-swagger` self documents all the APIs.
-- Visit `http://localhost:3030/doc` to access the doc after starting the server.
+- Visit `http://localhost:5000/doc` to access the doc after starting the server.
 ![Documentation](https://user-images.githubusercontent.com/4172932/29810159-75a90d10-8cbc-11e7-986d-4059315052d6.png)
 
 ## Miscellaneous

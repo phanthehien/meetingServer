@@ -17,7 +17,7 @@ RUN yarn --production --pure-lockfile
 COPY . /app/
 
 #expose default port of the docker to 3000
-EXPOSE 3030
+EXPOSE 5000
 
 #runs this command when the container is created, can be overriden in the docker-compose.yml
 CMD ["yarn", "start"]

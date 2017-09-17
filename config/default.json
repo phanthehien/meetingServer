@@ -1,6 +1,6 @@
 {
   "app": {
-    "port": "3030",
+    "port": "5000",
     "name": "onehundredserver",
     "logLevel": "info"
   },
