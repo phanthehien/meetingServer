@@ -3,66 +3,21 @@
     {
       "categoryId": 1,
       "categegory": "english",
-      "description": "English"
+      "description": "English",
+      "children": "englishTopic"
     },
     {
       "categoryId": 2,
       "categegory": "love",
-      "description": "Love"
+      "description": "Love",
+      "children": "loveTopic"
     }
   ,
     {
       "categoryId": 3,
-      "categegory": "stories",
-      "description": "Stories"
-    },
-    {
-      "categoryId": 4,
-      "categegory": "english",
-      "description": "English"
-    },
-    {
-      "categoryId": 5,
-      "categegory": "love",
-      "description": "Love"
-    }
-  ,
-    {
-      "categoryId": 6,
-      "categegory": "stories",
-      "description": "Stories"
-    },
-    {
-      "categoryId": 7,
-      "categegory": "english",
-      "description": "English"
-    },
-    {
-      "categoryId": 8,
-      "categegory": "love",
-      "description": "Love"
-    }
-  ,
-    {
-      "categoryId": 9,
-      "categegory": "stories",
-      "description": "Stories"
-    },
-    {
-      "categoryId": 10,
-      "categegory": "english",
-      "description": "English"
-    },
-    {
-      "categoryId": 11,
-      "categegory": "love",
-      "description": "Love"
-    }
-  ,
-    {
-      "categoryId": 12,
-      "categegory": "stories",
-      "description": "Stories"
+      "categegory": "story",
+      "description": "Stories",
+      "children": "storyTopic"
     }
   ]
 }

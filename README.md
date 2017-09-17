@@ -1,4 +1,4 @@
-# Hapi Starter Kit | Hapi based REST application boilerplate, uses async/await
+# 100 common thing | Hapi based REST application boilerplate, uses async/await
 
 [![Build Status](https://img.shields.io/travis/Codigami/hapi-starter-kit/master.svg?style=flat-square)](https://travis-ci.org/Codigami/hapi-starter-kit)
 [![Code Climate](https://codeclimate.com/github/Codigami/hapi-starter-kit/badges/gpa.svg)](https://codeclimate.com/github/Codigami/hapi-starter-kit)

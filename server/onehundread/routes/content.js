@@ -1,11 +1,11 @@
-const data = require('../../../data/english.json')
+const { topicHandler } = require('../handlers')
 
 const routeCategory = {
   method: 'GET',
-  path: '/api/english',
+  path: '/api/content/{name?}',
   config: {
-    tags: ['api', 'english'],
-    description: 'Get english',
+    tags: ['api', 'content'],
+    description: 'Get content',
     validate: {
       query: null,
       headers: null
@@ -19,9 +19,7 @@ const routeCategory = {
         }
       }
     },
-    handler (request, reply) {
-      return reply(data)
-    }
+    handler: topicHandler
   }
 }
 

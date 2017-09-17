@@ -1,8 +1,8 @@
-const data = require('../../../data/topic.json')
+const { topicHandler } = require('../handlers')
 
 const routeCategory = {
   method: 'GET',
-  path: '/api/topic',
+  path: '/api/topic/{name?}',
   config: {
     tags: ['api', 'topic'],
     description: 'Get topic',
@@ -19,9 +19,7 @@ const routeCategory = {
         }
       }
     },
-    handler (request, reply) {
-      return reply(data)
-    }
+    handler: topicHandler
   }
 }
 
