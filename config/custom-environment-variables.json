@@ -1,7 +1,7 @@
 {
   "app": {
     "port": "5000",
-    "name": "100 common things",
+    "name": "onehundredcommon",
     "logLevel": "LOG_LEVEL"
   },
   "openWeather": {
