@@ -30,6 +30,7 @@ if (config.util.getEnv('NODE_ENV') === DEVELOPMENT) {
     {
       register: HapiSwagger,
       options: {
+        documentationPath: '/doc',
         info: {
           'title': Package.description,
           'version': Package.version

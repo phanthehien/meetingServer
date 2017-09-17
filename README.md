@@ -119,7 +119,7 @@ yarn lint
 
 ## Documentation
 - `hapi-swagger` self documents all the APIs.
-- Visit `http://localhost:3030/documentation` to access the documentation after starting the server.
+- Visit `http://localhost:3030/doc` to access the doc after starting the server.
 ![Documentation](https://user-images.githubusercontent.com/4172932/29810159-75a90d10-8cbc-11e7-986d-4059315052d6.png)
 
 ## Miscellaneous
