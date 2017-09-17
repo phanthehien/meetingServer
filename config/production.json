@@ -1,0 +1,10 @@
+{
+  "app": {
+    "port": "5000",
+    "name": "onehundredcommon",
+    "logLevel": "info"
+  },
+  "openWeather": {
+    "apiKey": "0aab581928dbdee4bbf373d5f9c5f6e2"
+  }
+}
