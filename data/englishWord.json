@@ -6,16 +6,6 @@
       "meaning": ""
     },
     {
-      "sentenceId": 1,
-      "sentence": "be",
-      "meaning": ""
-    },
-    {
-      "sentenceId": 1,
-      "sentence": "the",
-      "meaning": ""
-    },
-    {
       "sentenceId": 2,
       "sentence": "be",
       "meaning": ""
@@ -257,7 +247,11 @@
     },
     {
       "sentenceId": 50,
-      "sentence": "me	51,
+      "sentence": "me",
+      "meaning": ""
+    },
+    {
+      "sentenceId": 51,
       "sentence": "when",
       "meaning": ""
     },
