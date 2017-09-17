@@ -2,509 +2,520 @@
   "content": [
     {
       "sentenceId": 1,
-      "sentence": "the",
-      "meaning": ""
-    },
-    {
-      "sentenceId": 1,
-      "sentence": "be",
-      "meaning": ""
-    },
-    {
-      "sentenceId": 1,
-      "sentence": "the",
-      "meaning": ""
+      "sentence": "RAINNING CATS AND DOGS: rain heavily",
+      "meaning": "It’s raining cats and dogs = It’s raining heavily"
     },
     {
       "sentenceId": 2,
-      "sentence": "be",
-      "meaning": ""
+      "sentence": "CHALK AND CHEESE: very different from each other : Khác biệt",
+      "meaning": "I don’t have anything in common with my brother. We’re like chalk and cheese."
     },
     {
       "sentenceId": 3,
-      "sentence": "to",
-      "meaning": ""
+      "sentence": "HERE AND THERE: everywhere",
+      "meaning": "I have been looking here and there for thegift I bought for my girlfriend."
     },
     {
       "sentenceId": 4,
-      "sentence": "of",
-      "meaning": ""
+      "sentence": "A HOT POTATO: something that is difficult ordangerous to deal with (vấn đề nan giải, nóng hổi)",
+      "meaning": "The abortion issue is a political hot potatoin the US."
     },
     {
       "sentenceId": 5,
-      "sentence": "and",
-      "meaning": ""
+      "sentence": "AT THE DROP OF THE HAT: immediately, instantly",
+      "meaning": "If you need me, just call me. I can come atthe drop of a hat."
     },
     {
       "sentenceId": 6,
-      "sentence": "a",
-      "meaning": ""
+      "sentence": "BACK TO THE DRAWING BOARD: time to start from the beginning ; it is time toplan something over again (bắt đầu lại từ đầu)",
+      "meaning": "My plans tocreate a tiny car made of glasses were unsuccessful, so I guess it is back tothe drawing board."
     },
     {
       "sentenceId": 7,
-      "sentence": "in",
-      "meaning": ""
+      "sentence": "BEAT ABOUT/AROUND THE BUSH: avoiding the main topic, not speaking directly about the issue. (nói vòng vo, không vô vấn đề chính)",
+      "meaning": "Stop beatingabout the bush and answer myquestion."
     },
     {
       "sentenceId": 8,
-      "sentence": "that",
-      "meaning": ""
+      "sentence": "BEST THING SINCE SLICED BREAD: a good inventionor innovation; a good idea or plan. (ý tưởng hay, tốt)",
+      "meaning": "Portable phones are marketed as the bestthing since sliced bread; people think they are extremely good."
     },
     {
       "sentenceId": 9,
-      "sentence": "have",
-      "meaning": ""
+      "sentence": "BURN THE MIDNIGHT OIL: to stay up working,especially studying late at night (thức khuya làm việc, học bài)",
+      "meaning": "I will have a big exam tomorrow so I’ll beburning the midnight oil tonight."
     },
     {
       "sentenceId": 10,
-      "sentence": "I",
-      "meaning": ""
+      "sentence": "CAUGHT BETWEEN TWO STOOLS: when someone findsit difficult to choose between two alternatives (lưỡng lự, không biết lựa chọncái nào, do dự)",
+      "meaning": "I was caught between two stools when I hadto choose which shirt to hang out with my girlfriends."
     },
     {
       "sentenceId": 11,
-      "sentence": "it",
-      "meaning": ""
+      "sentence": "BREAK A LEG = Chúc may mắn"
     },
     {
       "sentenceId": 12,
-      "sentence": "for",
-      "meaning": ""
+      "sentence": "HIT THE BOOKS = học tập"
     },
     {
       "sentenceId": 13,
-      "sentence": "not",
-      "meaning": ""
+      "sentence": "LET THE CAT OUT OF THE BAG: to reveal a secret or a surprise by accident ( để lộ bí mật)",
+      "meaning": "It’s asecret. Try not to let the cat out of the bag."
     },
     {
       "sentenceId": 14,
-      "sentence": "on",
-      "meaning": ""
+      "sentence": "WHEN PIGS FLY =something will never happen (chuyện viễn vông, không tưởng)"
     },
     {
       "sentenceId": 15,
-      "sentence": "with",
-      "meaning": ""
+      "sentence": "SCRATCH SOMEONE’S BACK: helpsomeone out with the assumption that they will return the favor in the future (giúp ai với mong muốn sau này người ta sẽ giúp lại mình)",
+      "meaning": "'You scratch my back and I will scratchyours', the customer said when we talked about the new sales contact."
     },
     {
       "sentenceId": 16,
-      "sentence": "he",
-      "meaning": ""
+      "sentence": "HIT THE NAIL ON THE HEAD: do or say something exactly right (đoán, nói trúng phóc)",
+      "meaning": "Mike hit thenail on the head when he said most people can use a computer without knowinghow it works."
     },
     {
       "sentenceId": 17,
-      "sentence": "as",
-      "meaning": ""
+      "sentence": "TAKESOMEONE/SOMETHING FOR GRANTED: coi nhẹ",
+      "meaning": "One of theproblems with relationships is that after a while you begin to take each otherfor granted."
     },
     {
       "sentenceId": 18,
-      "sentence": "you",
-      "meaning": ""
+      "sentence": "TAKE SOMETHINGINTO ACCOUNT/CONSIDERATION: toremember to consider something (tính đến cái gì)",
+      "meaning": "We will take your long years of service intoaccount when we make our final decision."
     },
     {
       "sentenceId": 19,
-      "sentence": "do",
-      "meaning": ""
+      "sentence": "KEEP AN EYE ON SB/STH: để ý, để tâm đến ai",
+      "meaning": "Please keep an eye on my baby while I amout."
     },
     {
       "sentenceId": 20,
-      "sentence": "at",
-      "meaning": ""
+      "sentence": "PUT SOMEONE/SOMETHING AT SOMEONE’S DISPOSAL: tomake someone or something available to someone (có sẵn cho ai sử dụng theo ýmuốn)",
+      "meaning": "I’d be glad to help you if you need me. Iput myself at your disposal."
     },
     {
       "sentenceId": 21,
-      "sentence": "this",
-      "meaning": ""
+      "sentence": "SPLITTING HEADACHE (N): a severe headache (đau đầu như búa bổ)",
+      "meaning": "I’ve got asplitting headache. I’m going upstairs for a nap."
     },
     {
       "sentenceId": 22,
-      "sentence": "but",
-      "meaning": ""
+      "sentence": "OFF THE PEG:may sẵn (quần áo)",
+      "meaning": "If I buytrousers off the peg, they’re always too short."
     },
     {
       "sentenceId": 23,
-      "sentence": "his",
-      "meaning": ""
+      "sentence": "ON THE HOUSE:không phải trả tiền",
+      "meaning": "I went to arestaurant last night. I was the ten thousandth customer, so my dinner was onthe house."
     },
     {
       "sentenceId": 24,
-      "sentence": "by",
-      "meaning": ""
+      "sentence": "HIT THE ROOF = GO THROUGH THE ROOF = HIT THECEILING: to suddenly become angry (giận dữ)",
+      "meaning": "I’m afraid he will hit the roof when hefinds out our vacation is cancelled."
     },
     {
       "sentenceId": 25,
-      "sentence": "from",
-      "meaning": ""
+      "sentence": "BRING DOWN THE HOUSE: làm cho cả khán phòng vỗtay nhiệt liệt",
+      "meaning": "Bin’s voice brought the house down. Hereally brought down the house with his fantastic song."
     },
     {
       "sentenceId": 26,
-      "sentence": "they",
-      "meaning": ""
+      "sentence": "PAY THROUGH THE NOSE: to pay too much for something (trả giá đắt)",
+      "meaning": "If you wantdecent wine in a restaurant, you will have to pay through the nose for it."
     },
     {
       "sentenceId": 27,
-      "sentence": "we",
-      "meaning": ""
+      "sentence": "BY THE SKIN OFONE’S TEETH: sát sao",
+      "meaning": "I got through calculus class by the skin of my teeth. I got to the airport a few minutes late and missed the plan by the skin of my teeth."
     },
     {
       "sentenceId": 28,
-      "sentence": "say",
-      "meaning": ""
+      "sentence": "PULL SOMEONE’SLEG: chọc ai",
+      "meaning": "You don’t mean that.You’re just pulling my leg."
     },
     {
       "sentenceId": 29,
-      "sentence": "her",
-      "meaning": ""
+      "sentence": "IT STRIKE SB AS/THAT A STRANGE: lấy làm lạ",
+      "meaning": "I stroke me as a strange when he came toclass early this morning."
     },
     {
       "sentenceId": 30,
-      "sentence": "she",
-      "meaning": ""
+      "sentence": "HIGH AND LOW = HERE AND THERE: everywhere",
+      "meaning": "I have been searching high and low for thegift I bought for Hà An for a whole day."
     },
     {
       "sentenceId": 31,
-      "sentence": "or",
-      "meaning": ""
+      "sentence": "THE MORE, THE MERRIER: càng đông, càng vui",
+      "meaning": "Of courseyou can have a ride with us! The more, the merrier."
     },
     {
       "sentenceId": 32,
-      "sentence": "an",
-      "meaning": ""
+      "sentence": "SPICK AND SPAN:ngăn nắp, gọn gàng",
+      "meaning": "The kitchenwas spick and span as ever, every surface wiped down and everything in itsplace."
     },
     {
       "sentenceId": 33,
-      "sentence": "will",
-      "meaning": ""
+      "sentence": "EVERY NOW AND THEN = sometimes",
+      "meaning": "Every nowand then, I want to be alone."
     },
     {
       "sentenceId": 34,
-      "sentence": "my",
-      "meaning": ""
+      "sentence": "PART AND PARCEL: integral, crucial (quan trọng,thiết yếu)",
+      "meaning": "Being recognised in the street is all partand parcel of being famous."
     },
     {
       "sentenceId": 35,
-      "sentence": "one",
-      "meaning": ""
+      "sentence": "GO TO ONE’S HEAD: khiến ai kiêu ngạo",
+      "meaning": "Don’t let all this praises go to your head. Too much success will go to her head."
     },
     {
       "sentenceId": 36,
-      "sentence": "all",
-      "meaning": ""
+      "sentence": "BE ON THE WAGON: kiêng rượu",
+      "meaning": "Bob’s olddrinking buddies complained that he was no fun when he went on the wagon."
     },
     {
       "sentenceId": 37,
-      "sentence": "would",
-      "meaning": ""
+      "sentence": "ONCE IN A BLUE MOON: rất hiếm",
+      "meaning": "Once in ablue moon, I stop thinking about her. If only she knew how much I love her."
     },
     {
       "sentenceId": 38,
-      "sentence": "there",
-      "meaning": ""
+      "sentence": "ON THE SPOT:immediately (ngay lập tức)",
+      "meaning": "I will bethere on the spot."
     },
     {
       "sentenceId": 39,
-      "sentence": "their",
-      "meaning": ""
+      "sentence": "FEW AND FAR BETWEEN: hiếm gặp",
+      "meaning": "Go and tell her that you love her! That kindof girl is really few and far between."
     },
     {
       "sentenceId": 40,
-      "sentence": "what",
-      "meaning": ""
+      "sentence": "ON THE VERGE OF = ON THE BRINK OF = IN THE EDGE: bên bờ vực (cẩn thận với giới từ “on” và “in” nhé!)",
+      "meaning": "We have to protect elephants. They are onthe verge of extinction."
     },
     {
       "sentenceId": 41,
-      "sentence": "so",
-      "meaning": ""
+      "sentence": "LEAD SOMEBODY BY THE NOSE: to control someone and make them do exactly what youwant them to do (nắm đầu, dắt mũi ai)",
+      "meaning": "They simply didn’t know what they were doing and they were led by the nose by a manipulative government"
     },
     {
       "sentenceId": 42,
-      "sentence": "up",
-      "meaning": ""
+      "sentence": "AT THE ELEVENTH HOUR: vào phút chót",
+      "meaning": "She alwaysturned her term paper in at the eleventh hour."
     },
     {
       "sentenceId": 43,
-      "sentence": "out",
-      "meaning": ""
+      "sentence": "FIND FAULT WITH: chỉ trích, kiếm chuyện, bắt lỗi",
+      "meaning": "It is very easy to find fault with the workothers."
     },
     {
       "sentenceId": 44,
-      "sentence": "if",
-      "meaning": ""
+      "sentence": "OFF AND ON/ ON AND OFF: không đều đặn, thỉnh thoảng",
+      "meaning": "We don’t often go there- just off and on."
     },
     {
       "sentenceId": 45,
-      "sentence": "about",
-      "meaning": ""
+      "sentence": "MAKE BELIEVE: giả bộ, giả vờ",
+      "meaning": "I tried to make believe she was happy, butknew deep down it was not true."
     },
     {
       "sentenceId": 46,
-      "sentence": "who",
-      "meaning": ""
+      "sentence": "MAKE GOOD TIME: di chuyển nhanh, đi nhanh.",
+      "meaning": "We made good time and were at the hotel bylunch time."
     },
     {
       "sentenceId": 47,
-      "sentence": "get",
-      "meaning": ""
+      "sentence": "LOOK DAGGERS AT SOMEONE: giận giữ nhìn ai đó",
+      "meaning": "Their relationship is not free and easy butat least he is no longer looking daggers at her."
     },
     {
       "sentenceId": 48,
-      "sentence": "which",
-      "meaning": ""
+      "sentence": "BE OUT OF THE QUESTION: không thể được",
+      "meaning": "You cannot get married until you are 18,it’s out of the question."
     },
     {
       "sentenceId": 49,
-      "sentence": "go",
-      "meaning": ""
+      "sentence": "ALL AT ONCE = suddenly: bất thình lình",
+      "meaning": "All at once, there was a loud banging on thedoor."
     },
     {
       "sentenceId": 50,
-      "sentence": "me	51,
-      "sentence": "when",
-      "meaning": ""
+      "sentence": "BLOW ONE’S TRUMPET: bốc phét, khoác lác",
+      "meaning": "Anyone will tell you she’s one of the bestjournalist we’ve got, although she’d never blow her trumpet."
     },
     {
+      "sentenceId": 51,
+      "sentence": "SLEEP ON IT: suy nghĩ thêm về điều gì đó.",
+      "meaning": "You don’thave to give me your decision now. Sleep on it, and let me know tomorrow."
+    }, {
       "sentenceId": 52,
-      "sentence": "make",
-      "meaning": ""
-    },
-    {
+      "sentence": "FIGHT TOOTH ANDCLAW / NAIL: đánh nhau dữ dội, cấu xé nhau",
+      "meaning": "We foughttooth and claw to retain our share of business."
+    }, {
       "sentenceId": 53,
-      "sentence": "can",
-      "meaning": ""
-    },
-    {
+      "sentence": "PLAY TRICKS /JOKES ON: chọc phá, trêu ghẹo, chơi khăm",
+      "meaning": "The kids arealways play jokes on their teachers."
+    }, {
       "sentenceId": 54,
-      "sentence": "like",
-      "meaning": ""
-    },
-    {
+      "sentence": "DOWN THE DRAIN: đổ sông đổ biển (công sức, tiền bạc)",
+      "meaning": "It’s just money down the drain."
+    }, {
       "sentenceId": 55,
-      "sentence": "time",
-      "meaning": ""
+      "sentence": "SMELL A RAT: hoài nghi, linh cảm chuyện không ổn",
+      "meaning": "The minute I came in, I smelled a rat."
     },
     {
       "sentenceId": 56,
-      "sentence": "no",
-      "meaning": ""
+      "sentence": "THE LAST STRAW: giọt nước tràn ly",
+      "meaning": "When sheshowed up late a third time, that was the last straw, We had to fire her."
     },
     {
       "sentenceId": 57,
-      "sentence": "just",
-      "meaning": ""
+      "sentence": "GET THE HANG OF SOMETHING: nắm bắt được, sử dụng được",
+      "meaning": "After threeweeks of using this computer, I think I’ve finally got the hand of it."
     },
     {
       "sentenceId": 58,
-      "sentence": "him",
-      "meaning": ""
+      "sentence": "HARD OF HEARING: lãng tai, nặng tai",
+      "meaning": "Tom is hardof hearing. Therefore, we have to speak loudly so that he can hear us."
     },
     {
       "sentenceId": 59,
-      "sentence": "know",
-      "meaning": ""
+      "sentence": "KEEP AN EYE ON: coi chừng, ngó chừng",
+      "meaning": "Please keep an eye on my baby while I’m outfor a while."
     },
     {
       "sentenceId": 60,
-      "sentence": "take",
-      "meaning": ""
+      "sentence": "HAVE A BEE IN ONE’S BONNET (ABOUT SOMETHING):đặt nặng chuyện gì, chấp nhất chuyện gì",
+      "meaning": "She has a bee in her bonnet about going toAmerica."
     },
     {
       "sentenceId": 61,
-      "sentence": "person",
-      "meaning": ""
+      "sentence": "GET/HAVE COLD FEET: mất hết can đảm, chùn bước",
+      "meaning": "I’m worriedmy friends may be getting cold feet about the university entrance exam.Therefore, I will try my best to help them overcome this severe exam."
     },
     {
       "sentenceId": 62,
-      "sentence": "into",
-      "meaning": ""
+      "sentence": "ON SECOND THOUGHTS: suy nghĩ kĩ",
+      "meaning": "On secondthoughts, it was a dumb movie."
     },
     {
       "sentenceId": 63,
-      "sentence": "year",
-      "meaning": ""
+      "sentence": "IN VAIN: uổngcông, vô ích",
+      "meaning": "All thedoctor’s efforts were in vain and the man soon died."
     },
     {
       "sentenceId": 64,
-      "sentence": "your",
-      "meaning": ""
+      "sentence": "CHIP IN: khuyên góp, góp tiền",
+      "meaning": "If everyone chips in, we will be able to buyher a nice present."
     },
     {
       "sentenceId": 65,
-      "sentence": "good",
-      "meaning": ""
+      "sentence": "OFF ONE’S HEAD: điên, loạn trí",
+      "meaning": "The old man has been off his head for atleast a year."
     },
     {
       "sentenceId": 66,
-      "sentence": "some",
-      "meaning": ""
+      "sentence": "RUN AN ERRAND: làm việc vặt",
+      "meaning": "I’ve got torun an errand. I’ll be back in a minute."
     },
     {
       "sentenceId": 67,
-      "sentence": "could",
-      "meaning": ""
+      "sentence": "JUMP THETRAFFIC LIGHTS: vượt đèn đỏ",
+      "meaning": "They ignorepeople who jumps the traffic lights."
     },
     {
       "sentenceId": 68,
-      "sentence": "them",
-      "meaning": ""
+      "sentence": "FLY OFF THE HANDLE: dễ nổi giận, phát cáu",
+      "meaning": "No one willfly off the handle for no reason."
     },
     {
       "sentenceId": 69,
-      "sentence": "see",
-      "meaning": ""
+      "sentence": "THE APPLE OF ONE’S EYES: đồ quý giá của ai",
+      "meaning": "You are the apple of my eyes."
     },
     {
       "sentenceId": 70,
-      "sentence": "other",
-      "meaning": ""
+      "sentence": "BUCKET DOWN: mưa xối xả, mưa to",
+      "meaning": "It’s been bucketing down all day."
     },
     {
       "sentenceId": 71,
-      "sentence": "than",
-      "meaning": ""
+      "sentence": "CLOSE SHAVE = NARROW ESCAPE: thoát chết trong gang tấc",
+      "meaning": "Phew, thatwas a close shave. I was so lucky."
     },
     {
       "sentenceId": 72,
-      "sentence": "then",
-      "meaning": ""
+      "sentence": "DROP A BRICK :lỡ lời, lỡ miệng",
+      "meaning": "I dropped abrick when talking with my best friend, and now he doesn’t want to talk to me."
     },
     {
       "sentenceId": 73,
-      "sentence": "now",
-      "meaning": ""
+      "sentence": "GET BUTTERFLIESIN ONE’S STOMACH: cảm thấy bồn chồn",
+      "meaning": "I always getbutterflies in my stomach when it comes to taking test."
     },
     {
       "sentenceId": 74,
-      "sentence": "look",
-      "meaning": ""
+      "sentence": "OFF THE RECORD: không chính thức, không được công bố",
+      "meaning": "What the president said is not to beprinted. It’s off the record."
     },
     {
       "sentenceId": 75,
-      "sentence": "only",
-      "meaning": ""
+      "sentence": "ONE’S CUP OF TEA: thứ mà ta thích",
+      "meaning": "SNSD is my cup of tea. They are so beautifuland talented. Especially Seohyun, she looks so cute."
     },
     {
       "sentenceId": 76,
-      "sentence": "come",
-      "meaning": ""
+      "sentence": "CUT IT FINE: đến sát giờ",
+      "meaning": "Onlyallowing half an hour to get from the station to the airport is cutting itfine, isn’t it?"
     },
     {
       "sentenceId": 77,
-      "sentence": "its",
-      "meaning": ""
+      "sentence": "GOLDEN HAND SHAKE: món tiền hậu hĩnh dành cho người sắp nghỉ việc",
+      "meaning": "The managergot early retirement and a 600,000$ golden handshake when the company wasrestructed."
     },
     {
       "sentenceId": 78,
-      "sentence": "over",
-      "meaning": ""
+      "sentence": "PUT ON AN ACT:giả bộ, làm bộ",
+      "meaning": "We’ve knownyou are a good swimmer – stop putting on an act."
     },
     {
       "sentenceId": 79,
-      "sentence": "think",
-      "meaning": ""
+      "sentence": "COME TO LIGHT: được biết đến, được phát hiện,được đưa ra ánh sáng.",
+      "meaning": "Four soldiers have faced charges since thescandal came to light last fall."
     },
     {
       "sentenceId": 80,
-      "sentence": "also",
-      "meaning": ""
+      "sentence": "TAKE THINGS TO PIECES: tháo ra từng mảnh",
+      "meaning": "Men like to take things to pieces and putthem together."
     },
     {
       "sentenceId": 81,
-      "sentence": "back",
-      "meaning": ""
+      "sentence": "PUT ONE’S FOOT IN IT: gây nhầm lẫn, bối rối, phạm một sai lầm gây bối rối",
+      "meaning": "I really putmy foot in it when I asked her about her job. I didn’t know she’d just beenfired."
     },
     {
       "sentenceId": 82,
-      "sentence": "after",
-      "meaning": ""
+      "sentence": "PULL ONE’SWEIGHT: nỗ lực, làm tròn trách nhiệm",
+      "meaning": "The rest ofthe team complained that Sarah wasn’t pulling her weight."
     },
     {
       "sentenceId": 83,
-      "sentence": "use",
-      "meaning": ""
+      "sentence": "MAKE ENDS MEET:xoay sở để kiếm sống",
+      "meaning": "I have towork at two jobs to make ends meet."
     },
     {
       "sentenceId": 84,
-      "sentence": "two",
-      "meaning": ""
+      "sentence": "GET THE HOLD OF THE WRONG END OF THE STICK:hiểu nhầm ai đó",
+      "meaning": "I think I must explain to her that she gothold of the wrong end of the stick again."
     },
     {
       "sentenceId": 85,
-      "sentence": "how",
-      "meaning": ""
+      "sentence": "CUT AND DRIED: cuối cùng, không thể thay đổi,rõ ràng, dễ hiểu",
+      "meaning": "Although a deal has been agreed, it is notyet cut-and-dried."
     },
     {
       "sentenceId": 86,
-      "sentence": "our",
-      "meaning": ""
+      "sentence": "STAY/KEEP ON ONE’S TOE: cảnh giác, thận trọng",
+      "meaning": "We hadbetter keep on our toes while we’re walking along the dark portions of thisstreet."
     },
     {
       "sentenceId": 87,
-      "sentence": "work",
-      "meaning": ""
+      "sentence": "SEE EYE TO EYE:đồng tình",
+      "meaning": "I’m gladthat they see eye to eye on the matter of the conference location."
     },
     {
       "sentenceId": 88,
-      "sentence": "first",
-      "meaning": ""
+      "sentence": "HAVE IN MIND:đang suy tính, cân nhắc",
+      "meaning": "I don’t wantto see a movie now, I have in mind going to the park."
     },
     {
       "sentenceId": 89,
-      "sentence": "well",
-      "meaning": ""
+      "sentence": "A LOST CAUSE: hết hy vọng, không thay đổi đượcgì",
+      "meaning": "It seems that Charles will give it up. Isuppose he is a lost cause."
     },
     {
       "sentenceId": 90,
-      "sentence": "way",
-      "meaning": ""
+      "sentence": "TO BE BOUND TO: chắc chắn",
+      "meaning": "You’re bound to be late if you don’t hurry."
     },
     {
       "sentenceId": 91,
-      "sentence": "even",
-      "meaning": ""
+      "sentence": "AT HEART: thực chất, cơ bản (basically, fundamentally)",
+      "meaning": "Jamessometimes seems quite unfriendly but at heart he’s a good person."
     },
     {
       "sentenceId": 92,
-      "sentence": "new",
-      "meaning": ""
+      "sentence": "TO KNOW BYSIGHT: nhận ra (recognize)",
+      "meaning": "The womansaid that she would know the thief by sight if she ever saw him again."
     },
     {
       "sentenceId": 93,
-      "sentence": "want",
-      "meaning": ""
+      "sentence": "NOW AND THEN =NOW AND AGAIN = AT TIMES = FROM TIME TO TIME = OFF AND ON = ONCE IN A WHILE =EVERY SO OFTEN : sometimes (thỉnh thoảng, không thường xuyên)"
     },
     {
       "sentenceId": 94,
-      "sentence": "because",
-      "meaning": ""
+      "sentence": "TO TAKE PAINS: làm việc cẩn thận và tận tâm",
+      "meaning": "She takes pains to do everything well."
     },
     {
       "sentenceId": 95,
-      "sentence": "any",
-      "meaning": ""
+      "sentence": "TO MAKE DO: xoay sở, đương đầu (to manage, tocope)",
+      "meaning": "During difficult economic times, many peoplehave to make do with less."
     },
     {
       "sentenceId": 96,
-      "sentence": "these",
-      "meaning": ""
+      "sentence": "SELL SOMEONE/ SOMETHING SHORT: đánh giá thấp",
+      "meaning": "When you saythat John isn’t interested in music, you’re selling him short. Did you know heplays the violin quite well?"
     },
     {
       "sentenceId": 97,
-      "sentence": "give",
-      "meaning": ""
+      "sentence": "FACE THE MUSIC:chịu trận",
+      "meaning": "Mary broke adining-room window and had to face the music when her father got home."
     },
     {
       "sentenceId": 98,
-      "sentence": "day",
-      "meaning": ""
+      "sentence": "LET THE CAT OUT OF THE BAG: để lộ bí mật",
+      "meaning": "I was tryingto keep the party a secret, but Jim went and let the cat outof the bag."
     },
     {
       "sentenceId": 99,
-      "sentence": "most",
-      "meaning": ""
+      "sentence": "ON PROBATION: trong thời gian quản chế",
+      "meaning": "While Anne was on probation, she reported tothe police regularly."
     },
     {
       "sentenceId": 100,
-      "sentence": "us",
-      "meaning": ""
+      "sentence": "SELL/ GO LIKE HOT CAKES: bán đắt như tôm tươi",
+      "meaning": "The book has only just been published andcopies are already selling like hot cakes in both Britain and America."
+    },
+    {
+      "sentenceId": 101,
+      "sentence": "IT NEVER RAINS BUT IT POURS: good or bad things do not just happen a few at atime, but in large numbers all at once (họa vô đơn chí)",
+      "meaning": "First of allit was the car breaking down, then the fire in the kitchen and now Mike’saccident. It never rains but it pours!"
+    },
+    {
+      "sentenceId": 102,
+      "sentence": "SALT AND PEPPER: màu tóc hoa râm. (having a mixture of black and white)",
+      "meaning": "He has asalt and pepper beard."
+    },
+    {
+      "sentenceId": 103,
+      "sentence": "A PENNY FOR YOUR THOUGHTS: a way of askingwhat someone is thinking (dùng để hỏi ai đó xem họ đang nghĩ gì)",
+      "meaning": "For several minutes they sat silently, thenfinally she looked at him and said, “A penny for your thoughts, Walter.” (Trongvài phút, họ ngồi im lặng, rồi cuối cùng cô nhìn anh và nói: “Anh đang nghĩ gìmà mê mải thế, Walter.”)"
+    },
+    {
+      "sentenceId": 104,
+      "sentence": "HOME AND DRY (adj): êm xuôi, hoàn thành trótlọt (have been successful)",
+      "meaning": "I just have to finish the placement exam,I’m home and dry."
+    },
+    {
+      "sentenceId": 105,
+      "sentence": "DOWN AND OUT (adj) : thất cơ lỡ vận",
+      "meaning": "True friends always stand by you when you’redown and out."
     }
   ]
 }
