@@ -22,23 +22,22 @@ const DEVELOPMENT = 'development'
  */
 let plugins = []
 
+// add hapi swagger integration
+plugins = plugins.concat([Inert,
+  Vision,
+  {
+    register: HapiSwagger,
+    options: {
+      documentationPath: '/doc',
+      info: {
+        'title': Package.description,
+        'version': Package.version
+      },
+      pathPrefixSize: 4
+    }
+  }])
+
 if (config.util.getEnv('NODE_ENV') === DEVELOPMENT) {
-
-  // add hapi swagger integration
-  plugins = plugins.concat([Inert,
-    Vision,
-    {
-      register: HapiSwagger,
-      options: {
-        documentationPath: '/doc',
-        info: {
-          'title': Package.description,
-          'version': Package.version
-        },
-        pathPrefixSize: 4
-      }
-    }])
-
   // add good console for log reporting
   plugins.push({
     register: Good,
