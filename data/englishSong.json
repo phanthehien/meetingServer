@@ -2,483 +2,603 @@
   "content": [
     {
       "sentenceId": 1,
-      "sentence": "what's up?",
-      "meaning": "Có chuyện gì vậy?"
+      "sentence": "I love the way you make me feel.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 2,
-      "sentence": "How's it going?",
-      "meaning": "Dạo này sao rùi?"
+      "sentence": "Do you even realize how much I love you?",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 3,
-      "sentence": "What have been doing?",
-      "meaning": "Dạo này đang làm gì?"
+      "sentence": "I love saying things that make you blush.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 4,
-      "sentence": "Nothing much",
-      "meaning": "Không có gì mới cả"
+      "sentence": "I sometimes think of you when you’re away and smile away to myself. People think I’m nuts.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 5,
-      "sentence": "What's on your mind?",
-      "meaning": "Bạn đang lo lắng gì vậy?"
+      "sentence": "You’re everything I wanted, and more.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 6,
-      "sentence": "I was just thinking",
-      "meaning": "Tôi chỉ nghĩ linh tinh chút thôi"
+      "sentence": "I’d rather not live than live without your love.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 7,
-      "sentence": "I was just daydreaming",
-      "meaning": "Tôi chỉ đãng trí chút thôi"
+      "sentence": "If I know what love is, it is because of you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 8,
-      "sentence": "It's none of your business",
-      "meaning": "Không phải chuyện của bạn?"
+      "sentence": "I’ve waited all my life to find someone like you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 9,
-      "sentence": "Is that so?",
-      "meaning": "Có chuyện gì vậy?"
+      "sentence": "God probably made you on a Sunday.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 10,
-      "sentence": "How come?",
-      "meaning": "Làm thế nào vậy?"
+      "sentence": "I would like to wake up next to you forever.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 11,
-      "sentence": "Absolutely!",
-      "meaning": "Chắc chắn rùi!"
+      "sentence": "I need you so badly.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 12,
-      "sentence": "Definitely!",
-      "meaning": "Quá đúng!"
+      "sentence": "I don’t know what I would do without you in my life.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 13,
-      "sentence": "Of course!",
-      "meaning": "Dĩ nhiên"
+      "sentence": "I’ve fallen in love so many times and always with you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 14,
-      "sentence": "You better believe it!",
-      "meaning": "Chắc chắn mà"
+      "sentence": "Even after all this time I get butterflies when I see you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 15,
-      "sentence": "I guess so",
-      "meaning": "Tôi đoán vậy"
+      "sentence": "I love cuddling up with you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 16,
-      "sentence": "There's no way to know",
-      "meaning": "Làm sao mà biết được"
+      "sentence": "I can’t wait to be with you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 17,
-      "sentence": "I can't say for sure.",
-      "meaning": "Tôi không chắc."
+      "sentence": "I want to hold your hand.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 18,
-      "sentence": "This is too good to be true.",
-      "meaning": "Chuyện này khó tin quá."
+      "sentence": "I love to listen to your heartbeat.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 19,
-      "sentence": "No way! (stop joking!) Thôi đi (đừng đùa nữa)",
-      "meaning": "Dĩ nhiên"
+      "sentence": "Cupcake, pumpkin pie, you’re the sweetest.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 20,
-      "sentence": "I got it.",
-      "meaning": "Tôi hiểu rồi."
+      "sentence": "The only thing harder than trying to impress you, is looking at you without smiling.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 21,
-      "sentence": "Right on! (Great!)",
-      "meaning": "Quá đúng!"
+      "sentence": "I enjoy every moment with you baby, even if it involves just watching you sleep!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 22,
-      "sentence": "I did it! (I made it!)",
-      "meaning": "Tôi làm được rồi!"
+      "sentence": "I can stay awake for all my life, just to be the first one to kiss you every morning and see you smile!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 23,
-      "sentence": "Got a minute?",
-      "meaning": "Có rãnh không?"
+      "sentence": "Is it the morning that’s lovely, or it’s just you?!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 24,
-      "sentence": "About when?",
-      "meaning": "Khi nào?"
+      "sentence": "I want to wake up next to you all my life!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 25,
-      "sentence": "I won't take but a minute.",
-      "meaning": "Sẽ không mất nhiều thời gian đâu"
+      "sentence": "I always thought that angels only lived in heaven. Every morning I thank God for sending this beautiful angel into my life and making my life heaven itself!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 26,
-      "sentence": "Speak up!",
-      "meaning": "Hãy nói lớn lên."
+      "sentence": "You are the reason why my mornings are bright, ‘cos without you baby, everything is just not right! You are my sunshine and I love you so much!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 27,
-      "sentence": "Seen Melissa?",
-      "meaning": "Có thấy Melissa không?"
+      "sentence": "Good morning sleeping beauty! No one looks more cute and beautiful while sleeping than you do!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 28,
-      "sentence": "So we've met again, eh?",
-      "meaning": "thế là chúng ta lại gặp nhau à?"
+      "sentence": "I can sit beside you and watch you sleep all my life, you are just so lovely!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 29,
-      "sentence": "Come here",
-      "meaning": "Đến đây"
+      "sentence": "Watching you sleep and knowing that my words are the first words in your ears this day, I feel so lucky to be with you! Wish you a",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 30,
-      "sentence": "Come over",
-      "meaning": "Ghé chơi"
+      "sentence": "lovely day ahead…well, mine will be lovely, because it started off with you next to me!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 31,
-      "sentence": "Don't go yet",
-      "meaning": "Đừng vội đi"
+      "sentence": "Good morning! You just made my day before it even started.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 32,
-      "sentence": "Please go first. After you.",
-      "meaning": "Mời đi trước, tôi sẽ theo sau."
+      "sentence": "Your cute smile makes me melt.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 33,
-      "sentence": "Thanks for letting me go first.",
-      "meaning": "Cám ơn đã nhường đường."
+      "sentence": "I love the way your skin feels so soft when I run my hands over it.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 34,
-      "sentence": "What a relief",
-      "meaning": "Thật là nhẹ nhõm"
+      "sentence": "Your eyes are so expressive and beautiful I can’t help but get lost in them.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 35,
-      "sentence": "What the hell are you doing?",
-      "meaning": "Anh làm cái quái gì thế?"
+      "sentence": "I think God was high when he created you because there’s no one else who comes so close to perfection.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 36,
-      "sentence": "You're a life saver.",
-      "meaning": "Bạn đúng là cứu tinh"
+      "sentence": "I love the way you say you love me when I kiss you goodnight over the phone.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 37,
-      "sentence": "I know i can count on you.",
-      "meaning": "Tôi biết mình có thể trông cậy vào anh."
+      "sentence": "You make me feel so happy when I’m with you, my jaws hurt.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 38,
-      "sentence": "Get your head out of your ass!",
-      "meaning": "Đừng có giả vờ khờ khạo!"
+      "sentence": "Last night I looked up into the stars and matched each one with a reason why I love you. I was doing great untill I ran out of stars.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 39,
-      "sentence": "That's lie!",
-      "meaning": "Xạo quá!"
+      "sentence": "Watching your smile or hearing you talk makes my heart go boom boom.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 40,
-      "sentence": "Do as i say.",
-      "meaning": "Làm như lời tôi nói"
+      "sentence": "Whenever you are away, I miss your smile the most.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 41,
-      "sentence": "This is the limit!",
-      "meaning": "Đủ rồi đó!"
+      "sentence": "You are the reason why I find this world beautiful.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 42,
-      "sentence": "Explain to me why",
-      "meaning": "Hãy giải thích cho tôi biết tại sao"
+      "sentence": "You make me feel weak in the knees when I touch you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 43,
-      "sentence": "Ask for it!",
-      "meaning": "Tự mình làm tự mình chịu đi!"
+      "sentence": "I can sit beside you and watch you sleep all my life, you are just so lovely!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 44,
-      "sentence": "In the nick of time",
-      "meaning": "Thật là đúng lúc"
+      "sentence": "I can stay awake all my life, just to be the first one to kiss you every morning and see you smile!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 45,
-      "sentence": "No litter",
-      "meaning": "Cấm vứt rác"
+      "sentence": "You are the reason why I find this world beautiful.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 46,
-      "sentence": "Go for it",
-      "meaning": "Cứ liều thử đi"
+      "sentence": "When our eyes meet in a crowded place, I feel this warm smile spreading over my face. I don’t want to smile, but I do involuntarily.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 47,
-      "sentence": "What a jerk!",
-      "meaning": "Thật là đáng ghét"
+      "sentence": "It’s like nothing in this world matters more than that one look.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 48,
-      "sentence": "How cute",
-      "meaning": "Dễ thương quá đi"
+      "sentence": "If I had to choose between breathing and loving you, I would use my last breath to say, I love you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 49,
-      "sentence": "None of your business!",
-      "meaning": "Không phải việc của bạn"
+      "sentence": "Knowing you has changed my world and nothing in it will ever be the same again.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 50,
-      "sentence": "Don't peep!",
-      "meaning": "Đừng nhìn lén!"
+      "sentence": "Your love has taught me how to dream when I’m awake.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 51,
-      "sentence": "Say cheese!",
-      "meaning": "Cười lên nào (khi chụp hình)"
+      "sentence": "I’ll be there till the stars don’t shine, till the heavens burst and the words don’t rhyme, I know when I die, you’ll be on my mind, and",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 52,
-      "sentence": "Be good!",
-      "meaning": "Ngoan nhá! (Nói với trẻ con)"
+      "sentence": "I’ll love you, Always…",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 53,
-      "sentence": "Bottom up!",
-      "meaning": "100% nào! (Khi uống bia)"
+      "sentence": "Listening to your heartbeats is a pleasure.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 54,
-      "sentence": "Me? Not likely! ",
-      "meaning": "Tôi hả? Không đời nào!"
+      "sentence": "I could stare at you forever and I’d still feel like I haven’t had enough of you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 55,
-      "sentence": "Scratch one's head",
-      "meaning": "Nghĩ muốn nát óc"
+      "sentence": "You make my sadness disappear with your beautiful smile.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 56,
-      "sentence": "Take it or leave it!",
-      "meaning": "Chịu thì lấy, không chịu thì thôi!"
+      "sentence": "You showed me how much love I have to give. Now you get to take it all!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 57,
-      "sentence": "Hell with haggling!",
-      "meaning": "Thôi kệ nó!"
+      "sentence": "When I think of you, everything’s suddenly alright.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 58,
-      "sentence": "Mark my words!",
-      "meaning": "Nhớ lời tao đó!"
+      "sentence": "Yes, being with you can sometimes be as annoying as having a scar that just won’t go away. But I’d really rather have that scar.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 59,
-      "sentence": "Bored to death!",
-      "meaning": "Chán chết!"
+      "sentence": "Because I know that without the scar, I’d be incomplete, unfinished.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 60,
-      "sentence": "Enjoy your meal!",
-      "meaning": "Ăn ngon miệng nhá!"
+      "sentence": "I think of you and kiss my pillow before I fall asleep every night.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 61,
-      "sentence": "It serves you right!",
-      "meaning": "Đáng đời mày!"
+      "sentence": "You’re so stunning that I just forgot my pick up line.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 62,
-      "sentence": "The more, the merrier!",
-      "meaning": "Càng đông càng vui!"
+      "sentence": "Are you from Tennessee? Because you’re the only ten I see.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 63,
-      "sentence": "Beggars can't be choosers!",
-      "meaning": "Ăn mày còn đòi xôi gấc"
+      "sentence": "You must be an interior decorator because when you walked in the room was suddenly beautiful and perfect!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 64,
-      "sentence": "Boys will be boys!",
-      "meaning": "Nó chỉ là trẻ con thôi mà!"
+      "sentence": "I must be hunting treasure because I’m digging your chest.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 65,
-      "sentence": "Good job!=Well done!",
-      "meaning": "Làm tốt lắm!"
+      "sentence": "Can you fix my cell phone?",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 66,
-      "sentence": "Just for fun!",
-      "meaning": "Cho vui thôi"
+      "sentence": "Have you ever been arrested? [No.] Really? It’s got to be illegal to look that good.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 67,
-      "sentence": "Try your best!",
-      "meaning": "Cố lên nhé!"
+      "sentence": "Do you believe in love at first sight, or should I pass by you again?",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 68,
-      "sentence": "Make some noise!",
-      "meaning": "Sôi nổi lên nào!"
+      "sentence": "Have you ever been to Antarctica? [No]",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 69,
-      "sentence": "Congratulations!",
-      "meaning": "Chúc mừng!"
+      "sentence": "I think you might have something in your eye. Oh, hold on, that’s just a twinkle…",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 70,
-      "sentence": "Rain cats and dogs",
-      "meaning": "Mưa tầm tã"
+      "sentence": "I’m a lot shorter than this in reality but I’m just sitting on my billfold.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 71,
-      "sentence": "Love me love my dogs",
-      "meaning": "Yêu em yêu cả đường đi"
+      "sentence": "I lost my phone number. Can I just have yours?",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 72,
-      "sentence": "Always the same",
-      "meaning": "Trước sau như một"
+      "sentence": "How are you?",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 73,
-      "sentence": "Hit or miss",
-      "meaning": "Được chăng hay chớ"
+      "sentence": "I’m like a Rubik’s cube. The more you play with me, the harder I get, baby.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 74,
-      "sentence": "Add fuel to the fire",
-      "meaning": "Thêm dầu vào lửa"
+      "sentence": "You’re as sweet as Skittles and I want to taste the rainbow.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 75,
-      "sentence": "To eat well and can dress beautifully.",
-      "meaning": "Ăn trắng mặc trơn"
+      "sentence": "I’ll make you a deal.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 76,
-      "sentence": "Don't mention it!=you're welcome=That's all right!",
-      "meaning": "Không có chi"
+      "sentence": "I am going to need your name and number for insurance purposes.[Why?]",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 77,
-      "sentence": "Just kidding",
-      "meaning": "Chỉ đùa thôi"
+      "sentence": "I just fell over and injured myself when I saw you!",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 78,
-      "sentence": "Hit it off",
-      "meaning": "Tâm đầu ý hợp"
+      "sentence": "If I had a nickel for every girl I had ever seen who was as gorgeous as you are, I’d have… 5 cents.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 79,
-      "sentence": "No, not a bit",
-      "meaning": "Không chẳng có gì"
+      "sentence": "My next drink is on you! [Why?] I saw you and dropped mine.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 80,
-      "sentence": "Nothing particular!",
-      "meaning": "Không có gì đặc biệt cả"
+      "sentence": "Let’s name your legs Thanksgiving and Christmas and I’ll visit between the holidays.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 81,
-      "sentence": "Have i got your word on that?",
-      "meaning": "Tôi có nên tin vào lời hứa của anh không?"
+      "sentence": "Any time I start feeling low I just think of you",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 82,
-      "sentence": "The same as usual!",
-      "meaning": "Giống như mọi khi"
+      "sentence": "Hold my hand and I will hold your heart and keep it safe for all eternity",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 83,
-      "sentence": "Almost!",
-      "meaning": "Gần xong rồi"
+      "sentence": "If you asked me to I would walk miles to be with you but please never tell me to go away",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 84,
-      "sentence": "You'll have to step on it.",
-      "meaning": "Bạn phải đi ngay"
+      "sentence": "A day without you feels like a year and a day with passes in seconds my dear",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 85,
-      "sentence": "I'm in a hurry.",
-      "meaning": "Tôi đang vội"
+      "sentence": "If my days started with a kiss from you then I would never drink coffee",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 86,
-      "sentence": "What the hell is going on?",
-      "meaning": "Chuyện quái quỷ gì đang diễn ra vậy?"
+      "sentence": "If I were asked to describe the color you represent, then I would have to go with rainbow because you are beautiful, magical and being with is like finding a treasure",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 87,
-      "sentence": "Sorry for bothering!",
-      "meaning": "Xin lỗi vì đã làm phiền"
+      "sentence": "I am woeful without you and awesome when I am with you.",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 88,
-      "sentence": "Give me a certain time!",
-      "meaning": "Cho tôi thêm thời gian"
+      "sentence": "I’ll love you till death, and then some",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 89,
-      "sentence": "It's a kind of once-in-life!",
-      "meaning": "Cơ hội ngàn năm có một"
+      "sentence": "We hold hands and our hearts join, our lips meet and our souls unite",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 90,
-      "sentence": "Out of sigh, out of mind!",
-      "meaning": "Xa mặt cách lòng"
+      "sentence": "The day we me and I knew one day together we would get and I am glad that it happened",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 91,
-      "sentence": "The God knows!",
-      "meaning": "Chúa mới biết được"
+      "sentence": "I am glad that we grew up together so I did not have to miss even one awesome moment of our time together",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 92,
-      "sentence": "Women love through ears, while men love through eyes!",
-      "meaning": "Con gái yêu bằng tai, con trai yêu bằng mắt."
+      "sentence": "My heart feels like a bird taking off in the air every time you smile upon me, my dear",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 93,
-      "sentence": "Poor you/me/him/her…! ",
-      "meaning": "- tội nghiệp bạn / tôi / hắn / cô ấy quá"
+      "sentence": "Our love is like the waves in the sea, sometimes calm, sometimes tempestuous but always there",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 94,
-      "sentence": "Go away!",
-      "meaning": "- Cút đi"
+      "sentence": "If our love where like the rose it would have to be a new breed that has no thorns",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 95,
-      "sentence": "Let me see. ",
-      "meaning": "Để tôi xem đã / Để tôi suy nghĩ đã"
+      "sentence": "I know why people stare at us; it is because you are more lovely than the moon",
+      "meaning": "",
+      "link": ""
     },
     {
       "sentenceId": 96,
-      "sentence": "Mark my words!",
-      "meaning": "Nhớ lời tao đó!"
+      "sentence": "Time has no value unless it is time spent with you",
+      "meaning": "",
+      "link": ""
+    },
+    {
+      "sentenceId": 97,
+      "sentence": "You are mine and so full of sunshine and I hope our love will always shine",
+      "meaning": "",
+      "link": ""
+    },
+    {
+      "sentenceId": 98,
+      "sentence": "When you smile my heart beats as if I ran a mile and it keeps me happy for a long while",
+      "meaning": "",
+      "link": ""
+    },
+    {
+      "sentenceId": 99,
+      "sentence": "You are queen of my heart and you make me shine like diamond when you are near",
+      "meaning": "",
+      "link": ""
+    },
+    {
+      "sentenceId": 100,
+      "sentence": "I love that we met, I like it that nobody got you before I did",
+      "meaning": "",
+      "link": ""
     }
   ]
 }
