@@ -1,12 +1,12 @@
 {
-  "name": "hapi-starter-kit",
+  "name": "one-hundred-common-server",
   "version": "2.0.0",
   "description": "100 common things",
   "author": "Kunal Kapadia",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Codigami/hapi-starter-kit"
+    "url": "https://github.com/phanthehien/100CommonServer"
   },
   "main": "index.js",
   "engines": {

@@ -132,5 +132,5 @@ Please feel free to open an issue if you can have any questions or trouble using
 Contributions are all welcome and encouraged. For code contributions submit a pull request with unit test.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/Codigami/hapi-starter-kit/blob/master/LICENSE)
+This project is licensed under the [MIT License](https://github.com/phanthehien/100CommonServer/blob/master/LICENSE)
 
