@@ -1,12 +1,12 @@
 {
-  "name": "one-hundred-common-server",
+  "name": "meeting-server",
   "version": "2.0.0",
-  "description": "100 common things",
+  "description": "meeting",
   "author": "Kunal Kapadia",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phanthehien/100CommonServer"
+    "url": "https://github.com/phanthehien/meetingOnline"
   },
   "main": "index.js",
   "engines": {
@@ -16,6 +16,7 @@
   },
   "scripts": {
     "start": "node index.js",
+    "dev": "node --inspect index.js" ,
     "lint": "eslint *.js server test config bin && echo Lint Passed ❤",
     "test": "NODE_ENV=test istanbul --include-all-sources cover _mocha -- -u bdd $(find test -name '*.js') && istanbul check-coverage && echo All tests passed 👍",
     "precommit": "yarn lint",

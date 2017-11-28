@@ -1,11 +1,10 @@
-const { topicHandler } = require('../handlers')
-
-const routeCategory = {
+const listEvent = {
   method: 'GET',
-  path: '/api/topic/{name?}',
+  path: '/api/events',
   config: {
-    tags: ['api', 'topic'],
-    description: 'Get topic',
+    tags: ['api', 'events'],
+    description: 'Get all events',
+    notes: 'Get all events created by this admin',
     validate: {
       query: null,
       headers: null
@@ -19,8 +18,14 @@ const routeCategory = {
         }
       }
     },
-    handler: topicHandler
+    handler: (req, reply) => {
+      const { events } = req.server
+
+      return events
+        .list()
+        .then(events => reply(events).code(200))
+    }
   }
 }
 
-module.exports = routeCategory
+module.exports = listEvent

@@ -1,7 +1,7 @@
 {
   "app": {
     "port": "5000",
-    "name": "onehundredcommon",
+    "name": "meetingOnline",
     "logLevel": "info"
   },
   "openWeather": {

@@ -6,5 +6,5 @@ exports.register = (server, opts, next) => {
 }
 
 exports.register.attributes = {
-  name: 'oneHundred'
+  name: 'meetingOnline'
 }

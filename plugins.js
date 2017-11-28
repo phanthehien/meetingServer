@@ -28,7 +28,7 @@ plugins = plugins.concat([Inert,
   {
     register: HapiSwagger,
     options: {
-      documentationPath: '/doc',
+      documentationPath: '/docs',
       info: {
         'title': Package.description,
         'version': Package.version
