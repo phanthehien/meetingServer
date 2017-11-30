@@ -1,3 +1,5 @@
+const uuid = require('uuid/v4')
+
 const data = {
   events: [
     {
@@ -6,26 +8,32 @@ const data = {
       code: 'CB001',
       start: '2017-11-28T16:48:12.823Z',
       end: '2017-11-29T16:48:12.823Z',
-      lastUpdated: '2017-11-29T16:48:12.823Z',
+      lastUpdated: '2017-11-30T21:34:47.356Z',
       status: 'active',
       questions: [{
         questionId: 1,
-        question: 'Do I need to do paper work to use cashback?'
+        question: 'Do I need to do paper work to use cashback?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }, {
         questionId: 2,
-        question: 'My iOS device is good enough for cashback 2?'
+        question: 'My iOS device is good enough for cashback 2?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }, {
         questionId: 3,
-        question: 'Do I need to do paper work to use cashback 3?'
+        question: 'Do I need to do paper work to use cashback 3?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }, {
         questionId: 4,
-        question: 'My iOS device is good enough for cashback 4?'
+        question: 'My iOS device is good enough for cashback 4?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }, {
         questionId: 5,
-        question: 'Do I need to do paper work to use cashback 5?'
+        question: 'Do I need to do paper work to use cashback 5?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }, {
         questionId: 6,
-        question: 'My iOS device is good enough for cashback 6?'
+        question: 'My iOS device is good enough for cashback 6?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }
       ],
       good: [1]
@@ -40,10 +48,12 @@ const data = {
       status: 'active',
       questions: [{
         questionId: 1,
-        question: 'Are you good?'
+        question: 'Are you good?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }, {
         questionId: 2,
-        question: 'So how minimum money I need to pay for cashback?'
+        question: 'So how minimum money I need to pay for cashback?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }
       ],
       good: [1, 2]
@@ -58,10 +68,12 @@ const data = {
       status: 'inactive',
       questions: [{
         questionId: 1,
-        question: 'I have android, can I use it?'
+        question: 'I have android, can I use it?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }, {
         questionId: 2,
-        question: 'Can I use with Samsung Pay?'
+        question: 'Can I use with Samsung Pay?',
+        createdDateAt: '2017-11-30T21:34:47.356Z'
       }
       ],
       good: []
@@ -145,6 +157,28 @@ class Events {
 
         event.lastUpdated = now.toISOString()
       }
+    }
+
+    return event
+  }
+
+  async askQuestion (eventCode, question) {
+    const { events } = data
+
+    const event = events.find(event => event.code === eventCode)
+
+    if (event) {
+      const now = new Date()
+
+      const { questions } = event
+      const questionItem = {
+        question,
+        id: uuid(),
+        createdDateAt: now.toISOString()
+      }
+
+      event.lastUpdated = now.toISOString()
+      questions.push(questionItem)
     }
 
     return event

@@ -44,7 +44,7 @@ server.register([{
         if (!cached) {
           return callback(null, false)
         }
-
+        console.log('You are logging with ', cached.user)
         return callback(null, true, cached.user)
       })
     }
