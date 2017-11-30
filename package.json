@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "dev": "node --inspect index.js" ,
+    "dev": "node --inspect index.js",
     "lint": "eslint *.js server test config bin && echo Lint Passed ❤",
     "test": "NODE_ENV=test istanbul --include-all-sources cover _mocha -- -u bdd $(find test -name '*.js') && istanbul check-coverage && echo All tests passed 👍",
     "precommit": "yarn lint",
@@ -32,6 +32,7 @@
     "good": "7.3.0",
     "good-console": "6.4.0",
     "hapi": "16.5.2",
+    "hapi-auth-cookie": "false7.0.0",
     "hapi-swagger": "7.7.1",
     "http-status": "1.0.1",
     "inert": "4.2.1",

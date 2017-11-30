@@ -35,7 +35,7 @@ const data = {
       name: 'Where we can use cashback feature?',
       code: 'CB002',
       start: '2017-11-28T16:58:12.823Z',
-      end: '2017-11-29T16:58:12.823Z',
+      end: '2017-12-15T16:58:12.823Z',
       lastUpdated: '2017-11-28T16:58:12.823Z',
       status: 'active',
       questions: [{
@@ -53,7 +53,7 @@ const data = {
       name: 'How to use cashback feature?',
       code: 'CB003',
       start: '2017-11-27T16:48:12.823Z',
-      end: '2017-11-28T16:48:12.823Z',
+      end: '2017-12-28T16:48:12.823Z',
       lastUpdated: '2017-11-27T16:48:12.823Z',
       status: 'inactive',
       questions: [{
@@ -78,6 +78,20 @@ class Events {
   async list () {
     const { events } = data
     return events
+  }
+
+  async get (code) {
+    const { events } = data
+    const now = new Date().toISOString()
+
+    const event = events.find(event =>
+      event.code === code &&
+      event.status === 'active' &&
+      (now >= (new Date(event.start)).toISOString()) &&
+      (now <= (new Date(event.end)).toISOString())
+    )
+
+    return event
   }
 
   async create (event) {
