@@ -39,32 +39,38 @@ const data = {
         questionId: '1',
         question: 'Do I need to do paper work to use cashback?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: []
+        likes: [],
+        creatorId: '123'
       }, {
         questionId: '2',
         question: 'My iOS device is good enough for cashback 2?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: []
+        likes: [],
+        creatorId: '123'
       }, {
         questionId: '3',
         question: 'Do I need to do paper work to use cashback 3?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: []
+        likes: [],
+        creatorId: '123'
       }, {
         questionId: '4',
         question: 'My iOS device is good enough for cashback 4?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: []
+        likes: [],
+        creatorId: '123'
       }, {
         questionId: '5',
         question: 'Do I need to do paper work to use cashback 5?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: []
+        likes: [],
+        creatorId: '123'
       }, {
         questionId: '6',
         question: 'My iOS device is good enough for cashback 6?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: []
+        likes: [],
+        creatorId: '123'
       }
       ],
       good: ['1'],
@@ -82,12 +88,14 @@ const data = {
         questionId: '1',
         question: 'Are you good?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: []
+        likes: [],
+        creatorId: '123'
       }, {
         questionId: '2',
         question: 'So how minimum money I need to pay for cashback?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: []
+        likes: [],
+        creatorId: '123'
       }
       ],
       good: ['1', '2']
@@ -104,12 +112,14 @@ const data = {
         questionId: '1',
         question: 'I have android, can I use it?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: ['123']
+        likes: ['123'],
+        creatorId: '123'
       }, {
         questionId: '2',
         question: 'Can I use with Samsung Pay?',
         createdDateAt: '2017-11-30T21:34:47.356Z',
-        likes: ['123']
+        likes: ['123'],
+        creatorId: '123'
       }
       ],
       good: []

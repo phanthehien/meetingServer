@@ -33,6 +33,7 @@
     "good-console": "6.4.0",
     "hapi": "16.5.2",
     "hapi-auth-cookie": "false7.0.0",
+    "hapi-cors-headers": "false1.0.3",
     "hapi-swagger": "7.7.1",
     "http-status": "1.0.1",
     "inert": "4.2.1",

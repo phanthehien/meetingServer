@@ -1,11 +1,11 @@
 const listEvent = {
   method: 'GET',
-  path: '/api/events',
+  path: '/api/questions',
   config: {
     auth: false,
-    tags: ['api', 'events'],
-    description: 'Get all events',
-    notes: 'Get all events created by this admin',
+    tags: ['api', 'questions'],
+    description: 'Get all questions',
+    notes: 'Get all questions created by all audiences',
     validate: {
       query: null,
       headers: null
@@ -23,8 +23,8 @@ const listEvent = {
       const { events } = req.server
 
       return events
-        .list()
-        .then(events => reply(events).code(200))
+        .listQuestion()
+        .then(questions => reply(questions).code(200))
     }
   }
 }

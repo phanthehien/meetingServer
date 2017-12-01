@@ -1,6 +1,8 @@
 'use strict'
 
 const hapiCookie = require('hapi-auth-cookie')
+var corsHeaders = require('hapi-cors-headers')
+
 const Hapi = require('hapi')
 const config = require('config')
 
@@ -61,6 +63,7 @@ const registerPlugins = async () => {
     const users = new Users()
     await server.register(plugins)
 
+    server.ext('onPreResponse', corsHeaders)
     server.ext('onPreHandler', (request, reply) => {
       Object.assign(request.server, { events, users })
       reply.continue()

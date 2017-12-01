@@ -8,8 +8,78 @@ class Events {
   }
 
   async list () {
+    const { events, audiences } = data
+
+    const mappedEvents = events.map(event => {
+      const { questions } = event
+      const mappedQuestions = questions.map(question => {
+        const { creatorId } = question
+        const creator = audiences.find(audience => audience.id === creatorId)
+        return {
+          ...question,
+          creator
+        }
+      })
+
+      const mappedEvent = {
+        ...event,
+        questions: mappedQuestions
+      }
+
+      return mappedEvent
+    })
+
+    return mappedEvents
+  }
+
+  async getEventDetail (code) {
+    const event = await this.get(code)
+    if (event) {
+      const mappedQuestions = this._enrichEventQuestions(event)
+      const mappedEvent = {
+        ...event,
+        questions: mappedQuestions
+      }
+
+      return mappedEvent
+    }
+
+    return null
+  }
+
+  _enrichEventQuestions (event) {
+    const { audiences } = data
+    const { questions, code, name } = event
+
+    const mappedQuestions = questions.map(question => {
+      const { creatorId } = question
+      const creator = audiences.find(audience => audience.id === creatorId)
+      return {
+        ...question,
+        creator,
+        eventCode: code,
+        eventName: name
+      }
+    })
+
+    return mappedQuestions
+  }
+
+  async listQuestion () {
     const { events } = data
-    return events
+
+    const allQuestions = []
+
+    for (let i = 0, len = events.length; i < len; i++) {
+      if (events[i].status !== 'active') {
+        continue
+      }
+
+      const mappedQuestions = this._enrichEventQuestions(events[i])
+      allQuestions.push(...mappedQuestions)
+    }
+
+    return allQuestions
   }
 
   async get (code) {

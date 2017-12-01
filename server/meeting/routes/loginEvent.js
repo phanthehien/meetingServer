@@ -3,14 +3,14 @@ const uuid = require('uuid/v4')
 const data = require('../data/data')
 const randomString = require('random-string')
 
-const listEvent = {
+const loginEvent = {
   method: 'GET',
-  path: '/api/events/{code}',
+  path: '/api/event/{code}/login',
   config: {
     auth: false,
     tags: ['api', 'event'],
-    description: 'Get event  by code',
-    notes: 'Get event by code',
+    description: 'Audience will login this event',
+    notes: 'Audience will login this event by just input the event code',
     validate: {
       params: {
         code: Joi.string().required()
@@ -63,4 +63,4 @@ const listEvent = {
   }
 }
 
-module.exports = listEvent
+module.exports = loginEvent
