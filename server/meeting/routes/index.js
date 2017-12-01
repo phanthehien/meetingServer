@@ -5,6 +5,7 @@ const markQuestion = require('./editQuestion')
 const get = require('./get')
 const login = require('./login')
 const askQuestion = require('./askQuestion')
+const likeQuestion = require('./likeQuestion')
 
 module.exports = [
   list,
@@ -13,5 +14,6 @@ module.exports = [
   markQuestion,
   get,
   login,
-  askQuestion
+  askQuestion,
+  likeQuestion
 ]

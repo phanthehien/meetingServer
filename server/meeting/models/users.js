@@ -1,31 +1,4 @@
-const data = {
-  users: [
-    {
-      userId: 1,
-      name: 'Hien Phan',
-      username: 'hien',
-      password: 'admin',
-      lastUpdated: '2017-11-29T16:48:12.823Z',
-      status: 'active'
-    },
-    {
-      userId: 2,
-      name: 'event administrator',
-      username: 'admin',
-      password: 'admin',
-      lastUpdated: '2017-11-29T16:48:12.823Z',
-      status: 'active'
-    },
-    {
-      userId: 3,
-      name: 'Ethan Ang',
-      username: 'ethan',
-      password: '123',
-      lastUpdated: '2017-11-29T16:48:12.823Z',
-      status: 'active'
-    }
-  ]
-}
+const data = require('../data/data')
 
 class Users {
 

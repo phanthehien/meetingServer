@@ -1,6 +1,7 @@
 const Joi = require('joi')
 const uuid = require('uuid/v4')
-var randomString = require('random-string')
+const data = require('../data/data')
+const randomString = require('random-string')
 
 const listEvent = {
   method: 'GET',
@@ -35,18 +36,23 @@ const listEvent = {
           if (event) {
             const randomName = randomString()
             const sid = uuid()
-            const user = {
+            const audience = {
               id: sid,
               name: randomName,
-              type: 'audience'
+              type: 'audience',
+              likes: []
             }
-            return req.server.app.cache.set(sid, { user }, 0, (err) => {
+            return req.server.app.cache.set(sid, { user: audience }, 0, (err) => {
 
               if (err) {
                 reply(err)
               }
 
               req.cookieAuth.set({ sid })
+
+              const { audiences } = data
+              audiences.push(audience)
+
               return reply(event).code(200)
             })
           }
