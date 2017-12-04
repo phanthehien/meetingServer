@@ -7,6 +7,7 @@ const get = require('./loginEvent')
 const login = require('./login')
 const askQuestion = require('./askQuestion')
 const likeQuestion = require('./likeQuestion')
+const deleteQuestion = require('./deleteQuestion')
 const getEventDetail = require('./getEventDetail')
 
 module.exports = [
@@ -18,6 +19,7 @@ module.exports = [
   login,
   askQuestion,
   likeQuestion,
+  deleteQuestion,
   listQuestion,
   getEventDetail
 ]

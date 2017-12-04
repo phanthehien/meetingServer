@@ -104,6 +104,7 @@ class Events {
     event.status = 'active'
     event.eventId = event.code
     event.lastUpdated = now.toISOString()
+    event.questions = []
     events.push(event)
     return event
   }
@@ -118,6 +119,23 @@ class Events {
       if (question) {
         const now = new Date()
         question.question = content
+        event.lastUpdated = now.toISOString()
+      }
+    }
+
+    return event
+  }
+
+  async deleteQuestion (eventCode, questionId) {
+    const { events } = data
+
+    const event = events.find(event => event.code === eventCode)
+
+    if (event) {
+      const index = event.questions.findIndex(question => question.questionId === questionId)
+      if (index > -1) {
+        const now = new Date()
+        event.questions.splice(index, 1)
         event.lastUpdated = now.toISOString()
       }
     }

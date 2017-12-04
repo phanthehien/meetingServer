@@ -14,7 +14,7 @@ const createEvent = {
           .example('How to register to be cashback user?')
       }).label('event item data'),
       params: {
-        questionId: Joi.number().required(),
+        questionId: Joi.string().required(),
         code: Joi.string().required()
       },
       headers: null

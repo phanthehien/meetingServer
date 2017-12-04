@@ -1,12 +1,12 @@
 const Joi = require('joi')
 
 const createEvent = {
-  method: 'PATCH',
-  path: '/api/events/{code}/question/{questionId}/highlight',
+  method: 'DELETE',
+  path: '/api/events/{code}/question/{questionId}',
   config: {
-    tags: ['api', 'events'],
-    description: 'Highlight Question',
-    notes: 'Highlight question (max 3 questions)',
+    tags: ['api', 'events', 'question'],
+    description: 'Delete question',
+    notes: 'Delete event`s question',
     validate: {
       params: {
         questionId: Joi.string().required(),
@@ -28,7 +28,7 @@ const createEvent = {
       const { events } = req.server
 
       return events
-        .markQuestion(code, questionId)
+        .deleteQuestion(code, questionId)
         .then(event => reply(event).code(200))
     }
   }
